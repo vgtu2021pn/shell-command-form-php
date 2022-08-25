@@ -9,7 +9,7 @@
 <meta property="og:url" content="https://github.com/elithecomputerguy">
 <meta property="og:description" content="Elithecomputerguy presents the Executable Command in the Server Command Shell.">
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/60199254?v=4">
-<base href="https://127.0.0.1:443/command.center.php">
+<base href="https://127.0.0.1:443/upload.filter.php">
 <link rel="author" href="https://github.com/elithecomputerguy">
 <link rel="license" href="https://creativecommons.org/licenses/by/4.0/">
 <link rel="shortcut icon" type="image/x-icon" sizes="32x32" href="https://127.0.0.1:443/favicon.ico">
